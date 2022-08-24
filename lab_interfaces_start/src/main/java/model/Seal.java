@@ -2,6 +2,7 @@ package model;
 
 import model.interfaces.ISwim;
 import model.interfaces.IPrey;
+import model.interfaces.IAnimal;
 public class Seal implements IAnimal, ISwim, IPrey {
 
     @Override

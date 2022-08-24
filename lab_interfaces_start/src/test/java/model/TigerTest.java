@@ -3,6 +3,7 @@ package model;
 import model.interfaces.ISwim;
 import model.interfaces.IHunt;
 import model.interfaces.IRun;
+import model.interfaces.IAnimal;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

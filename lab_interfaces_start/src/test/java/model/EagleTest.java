@@ -2,6 +2,7 @@ package model;
 
 import model.interfaces.IFly;
 import model.interfaces.IHunt;
+import model.interfaces.IAnimal;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

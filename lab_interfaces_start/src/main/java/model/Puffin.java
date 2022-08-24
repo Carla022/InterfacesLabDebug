@@ -2,6 +2,8 @@ package model;
 
 import model.interfaces.IFly;
 import model.interfaces.ISwim;
+import model.interfaces.IPrey;
+import model.interfaces.IAnimal;
 
 public class Puffin implements IAnimal, IFly, ISwim, IPrey {
     @Override
